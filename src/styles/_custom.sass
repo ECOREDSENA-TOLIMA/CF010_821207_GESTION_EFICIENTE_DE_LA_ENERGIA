@@ -1,19 +1,59 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    -webkit-animation: 7s rotate linear infinite
+    animation: 7s rotate linear infinite
+    -webkit-transform-origin: 50% 50%
+    transform-origin: 50% 50%
     position: absolute
-    top: 40%
-    right: 50%
+    top: 33%
+    left: 0%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    -webkit-animation: 5s rotate linear infinite
+    animation: 5s rotate linear infinite
+    -webkit-transform-origin: 50% 50%
+    transform-origin: 50% 50%
     position: absolute
-    top: 51%
-    right: 30%
+    top: 23%
+    left: 13%
+  &-3
+    -webkit-animation: 3s rotate linear infinite
+    animation: 3s rotate linear infinite
+    -webkit-transform-origin: 50% 50%
+    transform-origin: 50% 50%
+    position: absolute
+    top: 47%
+    right: 25%
 
+@keyframes rotate 
+  from 
+    transform: rotate(0deg)
+  to 
+    transform: rotate(360deg)
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+@-webkit-keyframes rotate 
+  from 
+    -webkit-transform: rotate(0deg)
+  to 
+    -webkit-transform: rotate(360deg)
+.imgr
+  -webkit-animation: 3s rotate linear infinite
+  animation: 3s rotate linear infinite
+  -webkit-transform-origin: 50% 50%
+  transform-origin: 50% 50%
 
-  100%
-    transform: translateY(0px)
+.introduccion
+  .clase-intro-text 
+    font-weight: bold
+    background-color: lighten($color-acento-contenido, 18%) 
+
+  .cajon.color-primario:before
+    background-color: transparent
+  .cajon.color-primario
+    padding: 1rem 2rem 1rem 2rem
+.tema1
+  .tarjeta.cajon.color-primario
+    background-color: lighten($color-primario, 52%)
+    h2,p
+      color: $black !important
+  .tarjeta.cajon.color-primario:before
+    background-color: transparent

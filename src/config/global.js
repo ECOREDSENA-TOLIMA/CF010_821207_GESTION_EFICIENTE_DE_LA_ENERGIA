@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Contexto normativo aplicable al sector energético',
+    descripcionCurso:
+      'El primer paso para la elaboración de un sistema de Gestión de Energía en cualquier organización es determinar el marco jurídico aplicable, los reglamentos técnicos del sector y las normas técnicas asociadas, en donde se establezcan claramente los requisitos necesarios para la implementación del sistema propuesto.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,28 +36,79 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: '¿Qué es normativa y cuáles son sus aplicaciones?',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo:
+          'La economía circular y objetivos de desarrollo sostenible en Colombia',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Economía Circular',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Objetivos del desarrollo sostenible en Colombia',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo:
+          'Marco regulatorio y normativo del sector energético en Colombia',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo:
+          'Marco regulatorio y normativo para la eficiencia energética y gestión de la energía a nivel internacional y nacional',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo:
+          'Marco regulatorio y normativo para las fuentes de energías renovables no convencionales a nivel internacional y nacional',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Reglamentos técnicos para el sector energía',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Reglamento técnico de instalaciones eléctricas (RETIE',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo:
+              'Reglamento técnico de iluminación y alumbrado público (RETILAP)',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Reglamento técnico de etiquetado (RETIQ)',
+            hash: 't_5_3',
+          },
+          {
+            numero: '5.4',
+            titulo:
+              'Reglamento Técnico de Sistemas e Instalaciones Térmicas (RETSIT)',
+            hash: 't_5_4',
+          },
+        ],
       },
     ],
     subMenu: [
