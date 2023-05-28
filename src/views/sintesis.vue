@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p El tema tratado se centra en el contexto normativo aplicado al sector energético. Se explora la importancia de la normativa y sus aplicaciones en este ámbito, así como el impacto de la economía circular y los objetivos del desarrollo sostenible en Colombia en la industria energética. También se analiza el marco regulatorio y normativo tanto a nivel nacional como internacional para aspectos clave como la eficiencia energética, las energías renovables no convencionales y la gestión de la energía. Además, se mencionan los reglamentos técnicos específicos, como el RETIE, RETILAP, RETIQ y RETSIT, que establecen requisitos y estándares para diferentes aspectos del sector energético.
 
     .row.justify-content-center
       .col-lg-10.mb-5

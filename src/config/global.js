@@ -81,32 +81,32 @@ export default {
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema5',
-        numero: '5',
+        nombreRuta: 'tema6',
+        numero: '6',
         titulo: 'Reglamentos técnicos para el sector energía',
         desarrolloContenidos: true,
         subMenu: [
           {
-            numero: '5.1',
+            numero: '6.1',
             titulo: 'Reglamento técnico de instalaciones eléctricas (RETIE',
-            hash: 't_5_1',
+            hash: 't_6_1',
           },
           {
-            numero: '5.2',
+            numero: '6.2',
             titulo:
               'Reglamento técnico de iluminación y alumbrado público (RETILAP)',
-            hash: 't_5_2',
+            hash: 't_6_2',
           },
           {
-            numero: '5.3',
+            numero: '6.3',
             titulo: 'Reglamento técnico de etiquetado (RETIQ)',
-            hash: 't_5_3',
+            hash: 't_6_3',
           },
           {
-            numero: '5.4',
+            numero: '6.4',
             titulo:
               'Reglamento Técnico de Sistemas e Instalaciones Térmicas (RETSIT)',
-            hash: 't_5_4',
+            hash: 't_6_4',
           },
         ],
       },

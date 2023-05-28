@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="94" viewBox="0 0 94 94">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2bc4f3"/>
+      <stop offset="0.5" stop-color="#00aeee"/>
+      <stop offset="1" stop-color="#0095da"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.092" y1="0.076" x2="0.811" y2="0.819" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="numero-uno" transform="translate(-0.317)">
+    <circle id="Elipse_4906" data-name="Elipse 4906" cx="47" cy="47" r="47" transform="translate(0.317)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_635563" data-name="Trazado 635563" d="M258.692,166.649l-35.338-35.338H203.925v10.542l6.9,6.9v29.082L230.9,197.907a46.741,46.741,0,0,0,27.794-31.257Z" transform="translate(-166.788 -107.72)" opacity="0.49" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_635564" data-name="Trazado 635564" d="M223.353,131.311V177.83H210.821V141.853h-6.9V131.311Z" transform="translate(-166.788 -107.72)" fill="#fff"/>
+  </g>
+</svg>
