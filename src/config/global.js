@@ -153,31 +153,110 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema:
+        '3. Marco regulatorio y normativo del sector energético en Colombia.',
+      referencia:
+        'Departamento Administrativo de la Función Pública (2015) Decreto 1073 de 2015 junto a todas las adiciones y modificaciones desde su fecha de expedición hasta el 22 de abril de 2021.',
+      tipo: 'Decreto de función pública',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=77887',
     },
     {
-      tema: '',
-      referencia: '',
+      tema:
+        '3. Marco regulatorio y normativo del sector energético en Colombia',
+      referencia:
+        'Ministerio de Minas y Energía. (s.f.). Repositorio normativo: Normativa.',
       tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      link: 'https://www.minenergia.gov.co/es/repositorio-normativo/normativa/',
+    },
+    {
+      tema:
+        '4. Marco regulatorio y normativo para la eficiencia energética y gestión de la energía a nivel internacional y nacional.',
+      referencia:
+        'Ley 1715 de 2014 [Ministerio de Minas y Energía de Colombia]. Por medio de la cual se regula la integración de las energías renovables no convencionales al Sistema Energético Nacional y se promueve la gestión eficiente de energía, establece incentivos tributarios para los contribuyentes que realicen de forma directa inversiones en investigación y desarrollo de proyectos para utilización eficiente de la energía. Función Pública. (s.f.). Gestor normativo: Norma.',
+      tipo: 'Ley',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=57353',
+    },
+    {
+      tema: '6.3 Reglamento técnico de etiquetado (RETIQ)',
+      referencia:
+        'Resolución Número 41012 de 2015, anexo general reglamento técnico de etiquetado-RETIQ. Septiembre 18 de 2015. Ministerio de Minas y Energía. (s.f.). Reglamento Técnico de Etiquetado RETIQ',
+      tipo: 'Resolución',
+      link:
+        'https://www.minenergia.gov.co/es/misional/energia-electrica-2/reglamentos-tecnicos/reglamento-t%C3%A9cnico-de-etiquetado-retiq/',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Eficiencia energética',
+      significado:
+        'en un proceso de conversión energético es igual al cociente de la energía de salida sobre la energía de entrada.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'FNCE',
+      significado: 'sigla de fuente no convencional de energía.',
+    },
+    {
+      termino: 'IEA',
+      significado:
+        'sigla de Agencia internacional de energía (International Energy Agency).',
+    },
+    {
+      termino: 'PAI-PROURE',
+      significado: 'sigla de Plan de acción indicativo del PROURE.',
+    },
+    {
+      termino: 'PROURE',
+      significado:
+        'sigla de Programa de uso racional y eficiente de la energía.',
+    },
+    {
+      termino: 'RETIQ',
+      significado: 'sigla de Reglamento Técnico de Etiquetado.',
+    },
+    {
+      termino: 'SI3EA',
+      significado:
+        'sigla de Sistema de Información de Eficiencia Energética y Energías Alternativas.',
+    },
+    {
+      termino: 'UPME',
+      significado: 'sigla de Unidad de Planeación minero-energética.',
+    },
+    {
+      termino: 'URE',
+      significado: 'sigla de Uso Racional y Eficiente de la energía.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'ICONTEC. (s.f.). NTC 2050: Código Eléctrico Colombiano. Recuperado de ',
+      link:
+        'https://e-collection-icontec-org.bdigital.sena.edu.co/normavw.aspx?ID=1292',
+    },
+    {
+      referencia:
+        'Resolución Número 90708 de 2013 y anexo. (30 de agosto 2013). <em>Por la cual se expide el Reglamento Técnico de Instalaciones Eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de Generación, Transmisión, Transformación, Distribución y Utilización de la energía eléctrica en la República de Colombia y se dictan otras disposiciones.</em> Ministerio de Minas y Energía de Colombia. ',
+      link:
+        'https://www.minenergia.gov.co/documents/3822/22726-Resolucion_9_0708_de_agosto_30_de_2013_expedicion_RETIE_2013.pdf',
+    },
+    {
+      referencia:
+        'Resolución Número 181331 de 2009 y anexo. (6 de agosto de 2009). <em>Por la cual se expide el Reglamento Técnico de Iluminación y Alumbrado Público RETILAP y se dictan otras disposiciones.</em> Ministerio de Minas y Energía de Colombia. ',
+      link:
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=37131',
+    },
+    {
+      referencia:
+        'Resolución Número 5018 de 2019 y anexo. (20 de noviembre de 2019). Por la cual se establecen lineamientos en Seguridad y Salud en el Trabajo en los procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Ministerio del Trabajo. ',
+      link:
+        'https://camacol.co/sites/default/files/descargables/Resoluci%C3%B3n%205018%20del%2020112019%20SST%20en%20energ%C3%ADa%20el%C3%A9ctrica_0.pdf',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje - SENA. (2013). <em>Caracterización del sector eléctrico colombiano.</em> Recuperado el 6 de julio del 2021 del repositorio SENA.',
       link: '',
     },
   ],
