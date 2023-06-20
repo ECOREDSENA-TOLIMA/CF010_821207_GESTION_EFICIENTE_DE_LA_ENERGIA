@@ -15,11 +15,11 @@
       div.col-12
         p Desde una perspectiva general se puede decir que la normativa es un fenómeno de la sociedad humana que algunas veces se usa para evaluar o emitir juicios sobre el comportamiento o los resultados y otras veces para describir lo que se hace normalmente o lo que se espera que la mayoría de los demás hagan en la práctica.
         p Revisé el siguiente vídeo que dará mayor información sobre normativa:
-    figure.mt-4
+    figure.mt-4(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mt-4.mb-4(data-aos="fade-right")
       div.mt-2.col-12.d-flex.align-items-center.mb-4.mt-3.position-relative(style="z-index:1000 !important" data-aos="fade-right")    
         div.p-0.position-relative   
           img.mb-0.position-relative(src="@/assets/curso/iconos/ico-01.svg")

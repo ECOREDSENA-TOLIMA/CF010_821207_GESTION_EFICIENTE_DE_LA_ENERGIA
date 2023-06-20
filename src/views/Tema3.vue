@@ -41,25 +41,25 @@
                     span Ir al sitio web
                     i.fas.fa-link
 
-    .row.mt-4 
+    .row.mt-4(data-aos="fade-right")
       .col-12.mb-0
         .cajon.color-primario.p-4
           p.mb-0 También hay en el sitio web SYG Energy una página donde menciona las principales leyes  y normatividad general del sector eléctrico en Colombia, su link de acceso es 
             <a href="https://www.sygenergy.co/2021/09/05/normatividad-y-leyes-del-sector-electrico-colombiano/" class="color-link"> https://www.sygenergy.co/2021/09/05/normatividad-y-leyes-del-sector-electrico-colombiano</a> y aparece como muestra la siguiente figura:
             
     .row.justify-content-center.align-items-center.tarjeta--azul-custom.mb-0.p-4.py-5
-      .col-lg-12.col-12
+      .col-lg-12.col-12(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1.</b> <i>Página Web de consulta de Normativa Energética</i> 
         img(src='@/assets/curso/temas/tema3/tema3-03.png')   
 
     .row.justify-content-center.align-items-center
+      .col-12(data-aos="fade-right")
+        p Una línea de tiempo con la expedición de la normativa más relevante del sector de energía eléctrica en nuestro país se muestra a continuación.
       .col-12
-        p Una línea de tiempo con la expedición de la normativa más relevante del sector de energía eléctrica en nuestro país se muestra a continuación
-      .col-lg-10.col-12
         p #[strong Escala de tiempo Normativa energía eléctrica Colombia, Universidad Distrital Francisco José de Caldas, Regulación del sector energético, p. 28 y 29]
 
-    .tarjeta.tarjeta--gris.p-4
+    .tarjeta.tarjeta--gris.p-4(data-aos="fade-right")
       LineaTiempoC.color-secundario(text-small)
         .row.justify-content-center.align-items-center(titulo="1938")
           .col-md-3.icon-years

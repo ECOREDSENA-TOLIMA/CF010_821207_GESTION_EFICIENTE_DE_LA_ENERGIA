@@ -7,14 +7,14 @@
         span 2
       h1 La economía circular y objetivos de desarrollo sostenible en Colombia
     .row 
-      .col-12
+      .col-12(data-aos="fade-right")
         p La economía circular y los objetivos de desarrollo sostenible hacen parte de este apartado.
     
     Separador
-    #t_2_1.titulo-segundo.color-acento-botones
+    #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.1 Economía Circular
-    p.mb-5 La economía circular es un modelo de producción y consumo, que busca optimizar el uso de los recursos y la vida útil de los productos obteniéndose ahorros y nuevos ingresos.
-    p.mb-5 A continuación, se ampliará más:
+    p.mb-4(data-aos="fade-right") La economía circular es un modelo de producción y consumo, que busca optimizar el uso de los recursos y la vida útil de los productos obteniéndose ahorros y nuevos ingresos.
+    p.mb-4(data-aos="fade-right") A continuación, se ampliará más:
     
     .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-right")
       SlyderA(tipo="b")
@@ -80,7 +80,7 @@
               figcaption Objetivos de desarrollo sostenible ONU
 
     Separador
-    #t_2_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
+    #t_2_2.titulo-segundo.color-acento-botones.mt-4(data-aos="fade-right")
       h2 2.2 Objetivos del desarrollo sostenible en Colombia
     .row(data-aos="fade-left")
       .col-lg-8.col-12
