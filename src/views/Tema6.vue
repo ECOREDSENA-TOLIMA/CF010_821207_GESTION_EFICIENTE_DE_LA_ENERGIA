@@ -1,5 +1,5 @@
 <template lang="pug">
-.curso-main-container.pb-3.tema5
+.curso-main-container.pb-3.tema6
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-botones
@@ -10,10 +10,29 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       div.col-12
         p Los reglamentos técnicos para el sector energía son:
-    figure.mt-4
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
-    
+   
+    .tarjeta.tarjeta--azul.p-4(data-aos="fade-down")
+      PasosB.color-acento-contenido
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Cuando dos o más países desean comerciar bienes y servicios entre ellos, se hace necesario que pacten o acuerden bajo el amparo del derecho internacional las condiciones económicas y comerciales en las que se deben dar dichos intercambios. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema6/tema6-04.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Una condición ineludible en dichos tratados (Ley 170 de 1994 adhesión de Colombia a la Organización Mundial de Comercio OMC) es que los países firmantes se comprometen a no crear obstáculos innecesarios al comercio, esto es que cualquier restricción referente a bienes y servicios incluidos en el tratado sólo puede referirse a ciertos objetivos denominados legítimos tales como la protección de la vida y salud humana, de la vida animal y vegetal, del medio ambiente, prevención de engaño al consumidor y los que tengan relación a la seguridad nacional. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema6/tema6-05.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Los documentos en donde se recogen los objetivos legítimos aplicables de forma obligatoria a cada sector de la economía se denominan Reglamentos Técnicos. 
+            p Los reglamentos técnicos reemplazan de forma sistemática en cada sector a las normas técnicas emitidas por el ICONTEC, cuyo cumplimiento dejó de ser obligatorio con la entrada en vigor de los reglamentos técnicos, excepto en los casos particulares expresamente contemplados en ellos.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema6/tema6-06.png', alt='')
+   
     .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-left")
       div.col-12
         p En Colombia en el sector energético se encuentran vigentes los siguientes reglamentos técnicos:
@@ -56,7 +75,7 @@
         p El tamaño de la etiqueta debe corresponder al del formato A6 (105 x 148 mm) y podrá reducirse en los casos contemplados en el numeral 6.2 del reglamento a los formatos A7 (74 x 105 mm) o A8 (52 x 74 mm).
         p La información energética exigida en la etiqueta debe ser certificada por un organismo acreditado en las condiciones de ensayo específicas para cada producto y corresponden a:
       .col-12.mt-4
-        p Complementa tu estudio sobre el Reglamento técnico de etiquetado (RETIQ) revisando el siguiente documento:
+        p Complete sus estudios acerca de RETIQ, revisando el siguiente reglamento:
     
     .row.justify-content-center.align-items-center.mt-0.mb-5(data-aos="fade-right")
       .col-lg-10.col-12

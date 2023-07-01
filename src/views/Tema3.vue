@@ -14,7 +14,7 @@
       .col-lg-8.col-12
         p De acuerdo con el documento CONPES 3816 de 2014, el gobierno nacional en aras de asegurar la eficiencia económica y social del sistema legal compiló y racionalizó las normas preexistentes del sector energético a través de la expedición del Decreto Único Reglamentario 1073 de 2015 del sector administrativo de Minas y energía. Este decreto está dividido en tres libros.
         p En el libro uno establece la estructura institucional del sector minero energético enunciando las entidades adscritas y relacionadas tanto del nivel central como del sector descentralizado. En el libro dos se establece el régimen reglamentario aplicable a los cinco sectores en que se dividió la actividad minero-energética así: Sector de Hidrocarburos, Sector de Gas, Sector de energía eléctrica, de la energía nuclear y del Sector Minero. En el libro tres se encuentran notas sobre la derogatoria y vigencia de la ley. 
-        p Para complementar este tema, te invitamos a que revises la siguiente información de los dos textos que te proponemos.
+        p Para complementar este tema, le invitamos a que revise la siguiente información de los dos textos que le proponemos.
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-10.col-12
@@ -55,9 +55,10 @@
 
     .row.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        p Una línea de tiempo con la expedición de la normativa más relevante del sector de energía eléctrica en nuestro país se muestra a continuación.
-      .col-12
-        p #[strong Escala de tiempo Normativa energía eléctrica Colombia, Universidad Distrital Francisco José de Caldas, Regulación del sector energético, p. 28 y 29]
+        .cajon.color-primario.p-4
+          p.mb-0 Una línea de tiempo con la expedición de la normativa más relevante del sector de energía eléctrica en nuestro país se muestra a continuación.
+      .col-12(data-aos="fade-right")
+        p.py-4 #[strong Escala de tiempo Normativa energía eléctrica Colombia, Universidad Distrital Francisco José de Caldas, Regulación del sector energético, p. 28 y 29.]
 
     .tarjeta.tarjeta--gris.p-4(data-aos="fade-right")
       LineaTiempoC.color-secundario(text-small)

@@ -3,10 +3,11 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p El tema tratado se centra en el contexto normativo aplicado al sector energético. Se explora la importancia de la normativa y sus aplicaciones en este ámbito, así como el impacto de la economía circular y los objetivos del desarrollo sostenible en Colombia en la industria energética. También se analiza el marco regulatorio y normativo tanto a nivel nacional como internacional para aspectos clave como la eficiencia energética, las energías renovables no convencionales y la gestión de la energía. Además, se mencionan los reglamentos técnicos específicos, como el RETIE, RETILAP, RETIQ y RETSIT, que establecen requisitos y estándares para diferentes aspectos del sector energético.
+    p El mapa conceptual aborda el tema del contexto normativo aplicado al sector energético. Comienza con una definición de normativa y sus aplicaciones. Luego, se exploran dos subtemas principales: la economía circular y los objetivos del desarrollo sostenible en Colombia. Estos subtemas se desglosan en economía circular y objetivos del desarrollo sostenible en Colombia como nodos separados. A continuación, se aborda el marco regulatorio y normativo del sector energético en Colombia, seguido por los marcos regulatorios y normativos tanto a nivel internacional como nacional para la eficiencia energética y la gestión de la energía, así como para las fuentes de energías renovables no convencionales.
+    p Finalmente, se presentan los reglamentos técnicos específicos relacionados con el sector energético, como el Reglamento Técnico de Instalaciones Eléctricas (RETIE), el Reglamento Técnico de Iluminación y Alumbrado Público (RETILAP), el Reglamento Técnico de Etiquetado (RETIQ) y el Reglamento Técnico de Sistemas e Instalaciones Térmicas (RETSIT). El mapa proporciona una visión general de los temas principales y las relaciones entre ellos en el contexto normativo del sector energético.
 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-12.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto

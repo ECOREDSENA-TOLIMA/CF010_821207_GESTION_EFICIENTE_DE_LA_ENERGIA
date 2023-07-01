@@ -166,7 +166,7 @@ export default {
         '3. Marco regulatorio y normativo del sector energético en Colombia',
       referencia:
         'Ministerio de Minas y Energía. (s.f.). Repositorio normativo: Normativa.',
-      tipo: '',
+      tipo: 'Decreto de función pública',
       link: 'https://www.minenergia.gov.co/es/repositorio-normativo/normativa/',
     },
     {
@@ -257,7 +257,7 @@ export default {
     {
       referencia:
         'Servicio Nacional de Aprendizaje - SENA. (2013). <em>Caracterización del sector eléctrico colombiano.</em> Recuperado el 6 de julio del 2021 del repositorio SENA.',
-      link: '',
+      link: 'https://biblioteca.sena.edu.co/ ',
     },
   ],
   creditos: [

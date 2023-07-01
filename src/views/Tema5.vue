@@ -7,15 +7,15 @@
         span 5
       h1 Marco regulatorio y normativo para las fuentes de energías renovables no convencionales a nivel internacional y nacional
 
-    .row.justify-content-center.align-items-center.tarjeta--azul-custom.mb-0.p-4.py-5
+    .row.justify-content-center.align-items-center.tarjeta--azul-custom.mb-5
       .col-12
-        p.mb-5(data-aos="fade-right") Adicional a la base de datos del IEA sobre normativa nacional en energías renovables, el Ministerio de minas y energía puso a disposición de la ciudadanía los decretos que se han expedido en el marco de la reglamentación de la ley 1715 de 2014 así:
+        p.mb-5(data-aos="fade-right") Adicional a la base de datos del IEA sobre normativa nacional en energías renovables, Función Pública puso a disposición de la ciudadanía los decretos que se han expedido en el marco de la reglamentación de la ley 1715 de 2014 así:
       .col-lg-12.col-12(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 3.</b> <i>Página Web del Ministerio de Minas y Energía sobre normativa en energías renovables.</i> 
         figure
           img(src='@/assets/curso/temas/tema5/tema5-01.png')
-          figcaption Nota.  https://www.minenergia.gov.co/energias-renovables-no-convencionales
+          figcaption Nota. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=57353 
 
 </template>
 

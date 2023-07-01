@@ -29,12 +29,12 @@
               img(src='@/assets/curso/temas/tema4/tema4-02.png', alt='', @click="modal1 = true, imagen = 'tema4-02.png'")
         
         .row
-          .col-lg-5.col-12.mb-4.mb-md-0
+          .col-md-6.col-12.mb-4.mb-md-0
             p El aumento de la eficiencia energética se aborda desde dos perspectivas:
             p a. Eficiencia en la fuente primaria: la estrategia de esta perspectiva se orienta en la naturaleza de la energía de entrada, reemplazando las fuentes no renovables por fuentes renovables de energía, que si bien es cierto no aumentan el porcentaje de eficiencia, se obtienen resultados positivos en la preservación del medio ambiente y en el aseguramiento del abastecimiento energético.
-            p.mb-0 b. Eficiencia en el uso final:  La estrategia de esta perspectiva se orienta en el uso y desarrollo de nuevas tecnologías que mejoren la eficiencia del proceso de conversión energético, obteniendo más energía en la salida a partir de la misma cantidad de energía en la entrada.
+            p.mb-0 b. Eficiencia en el uso final: la estrategia de esta perspectiva se orienta en el uso y desarrollo de nuevas tecnologías que mejoren la eficiencia del proceso de conversión energético, obteniendo más energía en la salida a partir de la misma cantidad de energía en la entrada.
             p En esta estrategia la normatividad global y local se enfocan en establecer metas escalonadas en el tiempo en la mejora de eficiencia energética de los equipos y aparatos de uso final.
-          .col-lg-7.col-12
+          .col-md-6.col-12
             figure
               img(src='@/assets/curso/temas/tema4/tema4-03.png', alt='', @click="modal1 = true, imagen = 'tema4-03.png'")
               
@@ -112,7 +112,7 @@
 
     .row.justify-content-center.align-items-center.mt-4(data-aos="fade-right")
       .col-12.mb-4
-        p Es indispensable en este punto, que revises la ley en referencia.
+        p Es indispensable en este punto, que revise la ley en referencia.
       .col-lg-10.col-12
         .tarjeta.color-primario.p-3
           .row.justify-content-around.align-items-center
@@ -132,7 +132,7 @@
       .col-12.mb-5(data-aos="fade-right")
         .cajon.color-primario.p-4
           p.mb-0 Finalmente, el Ministerio de Minas y energías a través de la Unidad de planeación minero-energética (UPME) desarrolló el sitio web Sistema de Información de Eficiencia Energética y energías alternativas (SI3EA) en donde se puede consultar la información oficial actualizada sobre el URE y las FNCE, como se muestra en la siguiente figura:
-      .col-lg-10.col-12(data-aos="fade-left")
+      .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Página Web SIMEC] 
         figure

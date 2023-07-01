@@ -82,10 +82,9 @@
     Separador
     #t_2_2.titulo-segundo.color-acento-botones.mt-4(data-aos="fade-right")
       h2 2.2 Objetivos del desarrollo sostenible en Colombia
-    .row(data-aos="fade-left")
+    .row.mb-5(data-aos="fade-left")
       .col-lg-8.col-12
-        p Una vez adoptados los ODS ante la ONU, el Gobierno de Colombia a través del Consejo Nacional de Política Económica y Social (CONPES) estableció en 2018 mediante el documento CONPES 3918 la estrategia para la implementación de dichos objetivos.
-        p Como parte de esa estrategia se definió el esquema de seguimiento y reporte de avances mediante indicadores y línea base, el plan de fortalecimiento de la producción y el manejo de datos de la medición del desarrollo, se estableció la línea estratégica para el acompañamiento a los gobiernos locales y los lineamientos para la interlocución con los actores no gubernamentales.
+        p Una vez adoptados los ODS ante la ONU, el Gobierno de Colombia a través del Consejo Nacional de Política Económica y Social (CONPES) estableció en 2018 mediante el documento CONPES 3918 la estrategia para la implementación de dichos objetivos. Como parte de esa estrategia se definió el esquema de seguimiento y reporte de avances mediante indicadores y línea base, el plan de fortalecimiento de la producción y el manejo de datos de la medición del desarrollo, se estableció la línea estratégica para el acompañamiento a los gobiernos locales y los lineamientos para la interlocución con los actores no gubernamentales.
       .col-lg-4.col-12
         figure
           img(src='@/assets/curso/temas/tema2/tema2-09.svg', alt='Texto que describa la imagen')

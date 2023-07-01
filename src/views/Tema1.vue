@@ -14,20 +14,44 @@
           h4.mb-0 Normativa
       div.col-12
         p Desde una perspectiva general se puede decir que la normativa es un fenómeno de la sociedad humana que algunas veces se usa para evaluar o emitir juicios sobre el comportamiento o los resultados y otras veces para describir lo que se hace normalmente o lo que se espera que la mayoría de los demás hagan en la práctica.
-        p Revisé el siguiente vídeo que dará mayor información sobre normativa:
-    figure.mt-4(data-aos="fade-left")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
-    
-    .row.justify-content-center.align-items-center.mt-4.mb-4(data-aos="fade-right")
+        p Revisé la siguiente presentación que dará mayor información sobre normativa: 
+
+    .tarjeta.tarjeta--gris.p-4(data-aos="fade-down")
+      PasosB.color-acento-contenido
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Dada la inmensa variabilidad del ser humano, se requiere de un consenso que establezca la figura de autoridad para que prescriba las reglas que regulan el comportamiento humano mediante el otorgamiento de derechos y declaración de deberes a cada uno de los integrantes del grupo social. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-11.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Cuando el grupo social es un estado, la figura de autoridad máxima es la constitución política del país y del ejercicio de los principios allí consagrados y conforme a las circunstancias que se van presentando, se expiden las reglas necesarias, conocidas como Leyes, Decretos y Resoluciones, para regular las actividades asociadas a cada aspecto en particular. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-12.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Las leyes son expedidas por el poder legislativo (Congreso), y son de carácter definitorio y los decretos son expedidos por el poder ejecutivo (Presidencia) y son generalmente de carácter reglamentario, es decir establecen cómo se aplican las leyes. Las resoluciones, como su nombre lo indica, son actos de una autoridad mediante los cuales se resuelve una petición o se ordena el cumplimiento de una medida.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-13.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Uno de los aspectos más importantes a tener en cuenta a la hora de regular, es el del uso y explotación de los recursos naturales, especialmente los de contenido energético. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-14.png', alt='')
+
+    .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-right")
       div.mt-2.col-12.d-flex.align-items-center.mb-4.mt-3.position-relative(style="z-index:1000 !important" data-aos="fade-right")    
         div.p-0.position-relative   
           img.mb-0.position-relative(src="@/assets/curso/iconos/ico-01.svg")
         div.py-2.px-3.pe-5
           h4.mb-0 Normativa Energética
-      .col-lg-8.col-12
-        p En términos muy generales, la normativa energética produce una regulación con el fin de garantizar la competencia efectiva del mercado y se considera necesaria para proteger a los consumidores, la sociedad y / o el medio ambiente
-        p El principal objetivo de la regulación de los sectores de infraestructura (sectores de servicios públicos) como la energía es, en general, garantizar una competencia adecuada y evitar el crecimiento de un grupo dominante o de un solo servicio público que preste servicios en cualquiera de las funciones; en esencia, se trata de un intento de mantener bajos los precios.
+    .row.justify-content-center.mt-4.mb-5(data-aos="fade-right")
+      .col-lg-8.col-12(data-aos="fade-down")
+        p En términos muy generales, la normativa energética produce una regulación con el fin de garantizar la competencia efectiva del mercado y se considera necesaria para proteger a los consumidores, la sociedad y / o el medio ambiente. El principal objetivo de la regulación de los sectores de infraestructura (sectores de servicios públicos) como la energía es, en general, garantizar una competencia adecuada y evitar el crecimiento de un grupo dominante o de un solo servicio público que preste servicios en cualquiera de las funciones; en esencia, se trata de un intento de mantener bajos los precios.
         p En los siguientes recursos podrá ampliar información de una manera detallada:
       .col-lg-4.col-12
         img(src="@/assets/curso/temas/tema1/tema1-01.svg")
@@ -38,7 +62,7 @@
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema1/tema1-02.svg' alt='AvatarTop')
         h2.text-center El principal objetivo
-        p.text-center de la regulación de los sectores de infraestructura (sectores de servicios públicos) como la energía es, en general, garantizar una competencia adecuada y evitar el crecimiento de un grupo dominante o de un solo servicio público que preste servicios en cualquiera de las funciones; en esencia, se trata de un intento de mantener bajos los precios.
+        p.text-center De la regulación de los sectores de infraestructura (sectores de servicios públicos) como la energía es, en general, garantizar una competencia adecuada y evitar el crecimiento de un grupo dominante o de un solo servicio público que preste servicios en cualquiera de las funciones; en esencia, se trata de un intento de mantener bajos los precios.
 
       .tarjeta.cajon.color-primario.p-4
         .row.justify-content-center.mb-3
@@ -59,7 +83,7 @@
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema1/tema1-05.svg' alt='AvatarTop')
         h2.text-center A menudo se sugiere que:
-        p.text-center “la competencia es el mejor regulador”, es decir, que la competencia efectiva conducirá al funcionamiento más eficiente del mercado, ya que las empresas reciben incentivos para satisfacer las necesidades de los consumidores. No significa necesariamente que donde exista competencia, la regulación ya no sea necesaria.
+        p.text-center “La competencia es el mejor regulador”, es decir, que la competencia efectiva conducirá al funcionamiento más eficiente del mercado, ya que las empresas reciben incentivos para satisfacer las necesidades de los consumidores. No significa necesariamente que donde exista competencia, la regulación ya no sea necesaria.
     
     .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-right")
       SlyderA(tipo="b")
