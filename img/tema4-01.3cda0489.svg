@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="715" height="402" viewBox="0 0 715 402">
+  <g id="Grupo_972365" data-name="Grupo 972365" transform="translate(-647 -515)">
+    <g id="Grupo_972364" data-name="Grupo 972364">
+      <rect id="Rectángulo_338709" data-name="Rectángulo 338709" width="715" height="402" rx="19" transform="translate(647 515)" fill="#fff"/>
+      <rect id="Rectángulo_338969" data-name="Rectángulo 338969" width="105" height="67" transform="translate(750 682)" fill="#25ffff"/>
+      <text id="Energía_Entrada" data-name="Energía
+Entrada" transform="translate(771 691)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Energía</tspan><tspan x="0" y="42">Entrada</tspan></text>
+      <path id="Polígono_157" data-name="Polígono 157" d="M65,0l65,50H0Z" transform="translate(895 651) rotate(90)" fill="#25ffff"/>
+      <g id="Grupo_972202" data-name="Grupo 972202" transform="translate(60 -796)">
+        <g id="Grupo_972199" data-name="Grupo 972199">
+          <rect id="Rectángulo_338970" data-name="Rectángulo 338970" width="105" height="59" transform="translate(1065 1425)" fill="#cfb7ff"/>
+          <path id="Polígono_158" data-name="Polígono 158" d="M57,0l57,50H0Z" transform="translate(1210 1398) rotate(90)" fill="#cfb7ff"/>
+        </g>
+        <text id="Pérdidas_de_energía" data-name="Pérdidas de energía" transform="translate(1081 1435)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Pérdidas </tspan><tspan x="0" y="35">de energía</tspan></text>
+      </g>
+      <g id="Grupo_972203" data-name="Grupo 972203" transform="translate(60 -834)">
+        <g id="Grupo_972200" data-name="Grupo 972200" transform="translate(0 152)">
+          <rect id="Rectángulo_338970-2" data-name="Rectángulo 338970" width="105" height="67" transform="translate(1065 1429)" fill="#0f58b9"/>
+          <path id="Polígono_158-2" data-name="Polígono 158" d="M65,0l65,50H0Z" transform="translate(1210 1398) rotate(90)" fill="#0f58b9"/>
+        </g>
+        <text id="Energía_Salida" data-name="Energía
+Salida" transform="translate(1086 1590)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Energía</tspan><tspan x="0" y="42">Salida</tspan></text>
+      </g>
+      <g id="Grupo_972201" data-name="Grupo 972201" transform="translate(105 -755)">
+        <g id="Rectángulo_338971" data-name="Rectángulo 338971" transform="translate(810 1429)" fill="#fff" stroke="#291272" stroke-width="3">
+          <rect width="190" height="89" stroke="none"/>
+          <rect x="1.5" y="1.5" width="187" height="86" fill="none"/>
+        </g>
+        <text id="Dispositivo_de_transformación" data-name="Dispositivo de transformación" transform="translate(838 1449)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Dispositivo de </tspan><tspan x="0" y="42">transformación</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
