@@ -51,7 +51,8 @@
           h4.mb-0 Normativa Energética
     .row.justify-content-center.mt-4.mb-5(data-aos="fade-right")
       .col-lg-8.col-12(data-aos="fade-down")
-        p En términos muy generales, la normativa energética produce una regulación con el fin de garantizar la competencia efectiva del mercado y se considera necesaria para proteger a los consumidores, la sociedad y / o el medio ambiente. El principal objetivo de la regulación de los sectores de infraestructura (sectores de servicios públicos) como la energía es, en general, garantizar una competencia adecuada y evitar el crecimiento de un grupo dominante o de un solo servicio público que preste servicios en cualquiera de las funciones; en esencia, se trata de un intento de mantener bajos los precios.
+        p En términos muy generales, la normativa energética produce una regulación con el fin de garantizar la competencia efectiva del mercado y se considera necesaria para proteger a los consumidores, la sociedad y / o el medio ambiente.
+        p El principal objetivo de la regulación de los sectores de infraestructura (sectores de servicios públicos) como la energía es, en general, garantizar una competencia adecuada y evitar el crecimiento de un grupo dominante o de un solo servicio público que preste servicios en cualquiera de las funciones; en esencia, se trata de un intento de mantener bajos los precios.
         p En los siguientes recursos podrá ampliar información de una manera detallada:
       .col-lg-4.col-12
         img(src="@/assets/curso/temas/tema1/tema1-01.svg")
@@ -61,8 +62,8 @@
         .row.justify-content-center.mb-3
           .col-8.col-lg-6
             img(src='@/assets/curso/temas/tema1/tema1-02.svg' alt='AvatarTop')
-        h2.text-center El principal objetivo
-        p.text-center De la regulación de los sectores de infraestructura (sectores de servicios públicos) como la energía es, en general, garantizar una competencia adecuada y evitar el crecimiento de un grupo dominante o de un solo servicio público que preste servicios en cualquiera de las funciones; en esencia, se trata de un intento de mantener bajos los precios.
+        h2.text-center A menudo se sugiere que:
+        p.text-center “la competencia es el mejor regulador”, es decir, que la competencia efectiva conducirá al funcionamiento más eficiente del mercado, ya que las empresas reciben incentivos para satisfacer las necesidades de los consumidores. No significa necesariamente que donde exista competencia, la regulación ya no sea necesaria.
 
       .tarjeta.cajon.color-primario.p-4
         .row.justify-content-center.mb-3

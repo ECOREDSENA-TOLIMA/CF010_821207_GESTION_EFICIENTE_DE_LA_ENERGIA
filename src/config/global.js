@@ -253,17 +253,17 @@ export default {
       link:
         'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=37131',
     },
-    {
-      referencia:
-        'Resolución Número 5018 de 2019 y anexo. (20 de noviembre de 2019). Por la cual se establecen lineamientos en Seguridad y Salud en el Trabajo en los procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Ministerio del Trabajo. ',
-      link:
-        'https://camacol.co/sites/default/files/descargables/Resoluci%C3%B3n%205018%20del%2020112019%20SST%20en%20energ%C3%ADa%20el%C3%A9ctrica_0.pdf',
-    },
-    {
-      referencia:
-        'Servicio Nacional de Aprendizaje - SENA. (2013). <em>Caracterización del sector eléctrico colombiano.</em> Recuperado el 6 de julio del 2021 del repositorio SENA.',
-      link: 'https://biblioteca.sena.edu.co/ ',
-    },
+    // {
+    //   referencia:
+    //     'Resolución Número 5018 de 2019 y anexo. (20 de noviembre de 2019). Por la cual se establecen lineamientos en Seguridad y Salud en el Trabajo en los procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Ministerio del Trabajo. ',
+    //   link:
+    //     'https://camacol.co/sites/default/files/descargables/Resoluci%C3%B3n%205018%20del%2020112019%20SST%20en%20energ%C3%ADa%20el%C3%A9ctrica_0.pdf',
+    // },
+    // {
+    //   referencia:
+    //     'Servicio Nacional de Aprendizaje - SENA. (2013). <em>Caracterización del sector eléctrico colombiano.</em> Recuperado el 6 de julio del 2021 del repositorio SENA.',
+    //   link: 'https://biblioteca.sena.edu.co/ ',
+    // },
   ],
   creditos: [
     {

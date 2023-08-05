@@ -15,7 +15,7 @@
       SlyderA(tipo="b")
         .row
           .col-lg-4.col-12.mb-4.mb-md-0
-            p El principio de conservación de la energía establece que esta no se crea ni se destruye, solo se transforma. En forma general un proceso de transformación involucra una energía de algún tipo en la entrada, una en la salida y otra (generalmente calor) correspondiente al costo energético de la transformación como se muestra en la siguiente figura:
+            p El principio de conservación de la energía establece que esta no se crea ni se destruye, solo se transforma. En forma general un proceso de transformación involucra una energía de algún tipo en la entrada, una en la salida y otra (generalmente calor) correspondiente al costo energético de la transformación como se muestra en la siguiente imagen:
           .col-lg-8.col-12
             figure
               img(src='@/assets/curso/temas/tema4/tema4-01.svg', alt='', @click="modal1 = true, imagen = 'tema4-01.svg'")
@@ -40,8 +40,8 @@
               
         .row
           .col-lg-4.col-12.mb-4.mb-md-0
-            p El sitio web de la Agencia Internacional de energía IEA (International Energy Agency) dispone de una base de datos de consulta muy completa sobre la normatividad energética a nivel mundial.
-            p Para consultar la normatividad internacional (global) sobre eficiencia energética se deben configurar en el menú de filtros el de "Tópico" en "Eficiencia energética", el de "Estado" en "Vigente" y el de Jurisdicción en "Internacional", como se muestra en la siguiente figura:
+            p El sitio web de la Agencia Internacional de energía IEA (#[i International Energy Agency]) dispone de una base de datos de consulta muy completa sobre la normatividad energética a nivel mundial.
+            p Para consultar la normatividad internacional (global) sobre eficiencia energética se deben configurar en el menú de filtros el de "Tópico" en "Eficiencia energética", el de "Estado" en "Vigente" y el de Jurisdicción en "Internacional", como se muestra en la siguiente imagen:
           .col-lg-8.col-12
             figure
               img(src='@/assets/curso/temas/tema4/tema4-04.png', alt='', @click="modal1 = true, imagen = 'tema4-04.png'")
@@ -49,7 +49,7 @@
 
         .row
           .col-lg-4.col-12.mb-4.mb-md-0
-            p Para consultar la normatividad NACIONAL sobre eficiencia energética, en la misma página del IEA, se deben configurar en el menú de filtros el de "Tópico" en "Eficiencia energética", el de "Estado" en "Vigente", el de Jurisdicción en "Centro y Sur América" y el de "País" en "Colombia", como se muestra en la siguiente figura: 
+            p Para consultar la normatividad NACIONAL sobre eficiencia energética, en la misma página del IEA, se deben configurar en el menú de filtros el de "Tópico" en "Eficiencia energética", el de "Estado" en "Vigente", el de Jurisdicción en "Centro y Sur América" y el de "País" en "Colombia", como se muestra en la siguiente imagen: 
           .col-lg-8.col-12
             figure
               img(src='@/assets/curso/temas/tema4/tema4-05.png', alt='', @click="modal1 = true, imagen = 'tema4-05.png'")
@@ -65,7 +65,7 @@
         .row
           .col-lg-4.col-12.mb-4.mb-md-0
             p El primer nivel en las metas indicativas de eficiencia energética se estableció en la resolución 180919 de 2010, mediante la adopción del Plan de Acción Indicativo PAI-PROURE 2010-2015 y el segundo nivel de las mismas metas se estableció en la resolución 41216 de 201, mediante la adopción del Plan de Acción Indicativo PAI-PROURE 2010-2015 el cual se encuentra vigente.
-            p Las actuales metas de ahorro de energía por sector se muestran la siguiente figura:
+            p Las actuales metas de ahorro de energía por sector se muestran la siguiente imagen:
           .col-lg-8.col-12
             figure
               img(src='@/assets/curso/temas/tema4/tema4-07.png', alt='', @click="modal1 = true, imagen = 'tema4-07.png'")
@@ -103,7 +103,7 @@
         .tarjeta-avatar.col-12
           img(style="width: 80px;" src="@/assets/curso/temas/tema4/numero-2.svg")   
           .tarjeta.col-12.py-4.mb-4(style="background:#CDFCFC")
-            p.mb-0.text-center.mt-1 Depreciación de los activos relacionado con el proyecto hasta el 20% anual (artículo 14).
+            p.mb-0.text-center.mt-1 Depreciación de los activos relacionados con el proyecto hasta el 20% anual (artículo 14).
       .col-lg-4.col-12.d-flex.mb-lg-0.mb-5(data-aos="fade-right")
         .tarjeta-avatar.col-12
           img(style="width: 80px;" src="@/assets/curso/temas/tema4/numero-3.svg")   
