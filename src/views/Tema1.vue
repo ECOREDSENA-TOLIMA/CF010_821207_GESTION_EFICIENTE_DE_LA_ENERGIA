@@ -57,35 +57,53 @@
       .col-lg-4.col-12
         img(src="@/assets/curso/temas/tema1/tema1-01.svg")
 
-    SlyderF(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
-      .tarjeta.cajon.color-primario.p-4
-        .row.justify-content-center.mb-3
-          .col-8.col-lg-6
-            img(src='@/assets/curso/temas/tema1/tema1-02.svg' alt='AvatarTop')
-        h2.text-center A menudo se sugiere que:
-        p.text-center “la competencia es el mejor regulador”, es decir, que la competencia efectiva conducirá al funcionamiento más eficiente del mercado, ya que las empresas reciben incentivos para satisfacer las necesidades de los consumidores. No significa necesariamente que donde exista competencia, la regulación ya no sea necesaria.
+    .row.mb-5
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/tema1-05.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              h4.text-center A menudo se sugiere que:
+              p.text-center “La competencia es el mejor regulador”, es decir, que la competencia efectiva conducirá al funcionamiento más eficiente del mercado, ya que las empresas reciben incentivos para satisfacer las necesidades de los consumidores. No significa necesariamente que donde exista competencia, la regulación ya no sea necesaria.
 
-      .tarjeta.cajon.color-primario.p-4
-        .row.justify-content-center.mb-3
-          .col-8.col-lg-6
-            img(src='@/assets/curso/temas/tema1/tema1-03.svg' alt='AvatarTop')
-        h2.text-center En los mercados no liberalizados
-        p.text-center El grado de regulación con las normas es una decisión política directa y está explícitamente relacionado con los objetivos de la política. En teoría, la introducción de la competencia a menudo se ha visto como una forma de reducir la regulación.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/tema1-03.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              h4.text-center En los mercados no liberalizados
+              p.text-center El grado de regulación con las normas es una decisión política directa y está explícitamente relacionado con los objetivos de la política. En teoría, la introducción de la competencia a menudo se ha visto como una forma de reducir la regulación.
 
-      .tarjeta.cajon.color-primario.p-4
-        .row.justify-content-center.mb-3
-          .col-8.col-lg-6
-            img(src='@/assets/curso/temas/tema1/tema1-04.svg' alt='AvatarTop')
-        h2.text-center En un sentido puramente económico
-        p.text-center La regulación en mercados competitivos sólo necesita aplicarse cuando los beneficios de hacerlo actúan para reducir el costo para el consumidor en mayor grado que si la regulación no existiera, por ejemplo, para limitar el abuso del mercado.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/tema1-04.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--azul
+            .p-4
+              h4.text-center En un sentido puramente económico
+              p.text-center La regulación en mercados competitivos sólo necesita aplicarse cuando los beneficios de hacerlo actúan para reducir el costo para el consumidor en mayor grado que si la regulación no existiera, por ejemplo, para limitar el abuso del mercado.
 
-      .tarjeta.cajon.color-primario.p-4
-        .row.justify-content-center.mb-3
-          .col-8.col-lg-6
-            img(src='@/assets/curso/temas/tema1/tema1-05.svg' alt='AvatarTop')
-        h2.text-center A menudo se sugiere que:
-        p.text-center “La competencia es el mejor regulador”, es decir, que la competencia efectiva conducirá al funcionamiento más eficiente del mercado, ya que las empresas reciben incentivos para satisfacer las necesidades de los consumidores. No significa necesariamente que donde exista competencia, la regulación ya no sea necesaria.
+    //- SlyderF(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
+    //-   .tarjeta.cajon.color-primario.p-4
+    //-     .row.justify-content-center.mb-3
+    //-       .col-8.col-lg-6
+    //-         img(src='@/assets/curso/temas/tema1/tema1-05.svg' alt='AvatarTop')
+    //-     h2.text-center A menudo se sugiere que:
+    //-     p.text-center “La competencia es el mejor regulador”, es decir, que la competencia efectiva conducirá al funcionamiento más eficiente del mercado, ya que las empresas reciben incentivos para satisfacer las necesidades de los consumidores. No significa necesariamente que donde exista competencia, la regulación ya no sea necesaria.
     
+    //-   .tarjeta.cajon.color-primario.p-4
+    //-     .row.justify-content-center.mb-3
+    //-       .col-8.col-lg-6
+    //-         img(src='@/assets/curso/temas/tema1/tema1-03.svg' alt='AvatarTop')
+    //-     h2.text-center En los mercados no liberalizados
+    //-     p.text-center El grado de regulación con las normas es una decisión política directa y está explícitamente relacionado con los objetivos de la política. En teoría, la introducción de la competencia a menudo se ha visto como una forma de reducir la regulación.
+
+    //-   .tarjeta.cajon.color-primario.p-4
+    //-     .row.justify-content-center.mb-3
+    //-       .col-8.col-lg-6
+    //-         img(src='@/assets/curso/temas/tema1/tema1-04.svg' alt='AvatarTop')
+    //-     h2.text-center En un sentido puramente económico
+    //-     p.text-center La regulación en mercados competitivos sólo necesita aplicarse cuando los beneficios de hacerlo actúan para reducir el costo para el consumidor en mayor grado que si la regulación no existiera, por ejemplo, para limitar el abuso del mercado.
+
     .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row

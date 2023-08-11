@@ -88,7 +88,7 @@ export default {
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Reglamento técnico de instalaciones eléctricas (RETIE',
+            titulo: 'Reglamento técnico de instalaciones eléctricas (RETIE)',
             hash: 't_6_1',
           },
           {
