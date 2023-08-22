@@ -63,7 +63,7 @@
           img(src='@/assets/curso/temas/tema1/tema1-05.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
-              h4.text-center A menudo se sugiere que:
+              h4.text-center A menudo se sugiere que
               p.text-center “La competencia es el mejor regulador”, es decir, que la competencia efectiva conducirá al funcionamiento más eficiente del mercado, ya que las empresas reciben incentivos para satisfacer las necesidades de los consumidores. No significa necesariamente que donde exista competencia, la regulación ya no sea necesaria.
 
       .col-md-6.col-lg.mb-5.mb-lg-0

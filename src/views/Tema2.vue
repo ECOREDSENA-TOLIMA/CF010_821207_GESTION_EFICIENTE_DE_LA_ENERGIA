@@ -33,7 +33,7 @@
             .titulo-sexto.color-acento-botones
               p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Comparación economía lineal y circular.</i>
             figure
-              img(src='@/assets/curso/temas/tema2/tema2-02.svg', alt='Comparación Economía Lineal y Circular, Cartilla economía circular p. 7')
+              img(src='@/assets/curso/temas/tema2/2.svg', alt='Comparación Economía Lineal y Circular, Cartilla economía circular p. 7')
               figcaption Comparación Economía Lineal y Circular, Cartilla economía circular p. 7
 
         .row
