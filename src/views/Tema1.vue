@@ -14,7 +14,7 @@
           h4.mb-0 Normativa
       div.col-12
         p Desde una perspectiva general se puede decir que la normativa es un fenómeno de la sociedad humana que algunas veces se usa para evaluar o emitir juicios sobre el comportamiento o los resultados y otras veces para describir lo que se hace normalmente o lo que se espera que la mayoría de los demás hagan en la práctica.
-        p Revisé la siguiente presentación que dará mayor información sobre normativa: 
+        p Revise la siguiente presentación que dará mayor información sobre normativa: 
 
     .tarjeta.tarjeta--gris.p-4(data-aos="fade-down")
       PasosB.color-acento-contenido

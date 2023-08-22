@@ -29,17 +29,17 @@
                   h4 Decreto 1073 de 2015
                   p Decreto 1073 de 2015 junto a todas las adiciones y modificaciones desde su fecha de expedición hasta el 22 de abril de 2021.
                 .col-md-3.col-12.text-right
-                  a.boton.color-acento-botones(:href="linkA" target="_blank") 
-                    span Ir al sitio web
-                    i.fas.fa-link
+                  a.boton.color-acento-contenido(:href="linkA" target="_blank") 
+                    span(style="color:black") Ir al sitio web
+                    i(style="color:black").fas.fa-link
               .col-12.row.justify-content-center.align-items-center
                 .col-md-9.col-12
                   h4 Normativa
                   p Adicionalmente el Ministerio de Minas y Energía en su sitio web publicó un documento elaborado en excel denominado Normograma, en donde se compilan todas las normas que regulan sus actuaciones en desarrollo de su objeto misional.
                 .col-md-3.col-12.text-right
-                  a.boton.color-acento-botones(:href="linkB" target="_blank") 
-                    span Ir al sitio web
-                    i.fas.fa-link
+                  a.boton.color-acento-contenido(:href="linkB" target="_blank") 
+                    span(style="color:black") Ir al sitio web
+                    i(style="color:black").fas.fa-link
 
     .row.mt-4(data-aos="fade-right")
       .col-12.mb-0
@@ -49,8 +49,8 @@
             
     .row.justify-content-center.align-items-center.tarjeta--azul-custom.mb-0.p-4.py-5
       .col-lg-12.col-12(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 1.</b> <i>Página Web de consulta de Normativa Energética</i> 
+        .titulo-sexto.color-acento-botones
+          p.titulo.pb-0.mb-0 <b>Figura 4.</b> <i>Página Web de consulta de Normativa Energética</i> 
         img(src='@/assets/curso/temas/tema3/tema3-03.png')   
 
     .row.justify-content-center.align-items-center

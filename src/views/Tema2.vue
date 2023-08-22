@@ -28,8 +28,10 @@
         .row
           .col-md-4.col-12.mb-4.mb-md-0
             p Se trata de una desviación del modelo económico lineal tradicional, que se basa en un patrón de llevar-hacer-consumir-desechar y en la denominada obsolescencia programada, que es cuando un producto ha sido diseñado para tener una vida útil limitada para alentar a los consumidores a comprarlo nuevamente.
-            p La diferencia entre ambos modelos económicos se muestra en la siguiente imagen:
+            p La diferencia entre ambos modelos económicos se muestra en la siguiente figura:
           .col-md-8.col-12
+            .titulo-sexto.color-acento-botones
+              p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Comparación economía lineal y circular.</i>
             figure
               img(src='@/assets/curso/temas/tema2/tema2-02.svg', alt='Comparación Economía Lineal y Circular, Cartilla economía circular p. 7')
               figcaption Comparación Economía Lineal y Circular, Cartilla economía circular p. 7
@@ -37,9 +39,11 @@
         .row
           .col-md-4.col-12.mb-4.mb-md-0
             p Como se puede observar, la diferencia entre los modelos va mucho más allá que la simple implementación del reciclaje. Comprende el desarrollo de productos innovadores y nuevos modelos de negocios que permitan que nuestro país, al igual que en los países de la Organización para la Cooperación y Desarrollo Económico (OCDE), consume 50% menos de materias primas y 80% menos de agua en los procesos productivos y que cuadruplique la productividad por hectárea de tierra.
-            p Un ejemplo de estrategias de economía circular (Diagrama Mariposa) se muestran en la siguiente imagen:
+            p Un ejemplo de estrategias de economía circular (Diagrama Mariposa) se muestran en la siguiente figura:
           .col-md-8.col-12
             figure
+              .titulo-sexto.color-acento-botones
+                p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Ejemplos de estrategias de economía circular.</i>
               img(src='@/assets/curso/temas/tema2/tema2-03.svg', alt='Texto que describa la imagen')
               figcaption Ejemplos de estrategias de economía circular, Cartilla economía circular p. 8
 
@@ -73,8 +77,10 @@
 
         .row
           .col-md-4.col-12.mb-4.mb-md-0
-            p Como parte de una iniciativa de la Organización de las Naciones Unidas (ONU) el 25 de septiembre de 2015 un grupo de naciones, entre ellas Colombia, adoptaron un conjunto de objetivos globales para erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todos conocidos como Objetivos de Desarrollo Sostenible y que se muestran en la siguiente imagen:
+            p Como parte de una iniciativa de la Organización de las Naciones Unidas (ONU) el 25 de septiembre de 2015 un grupo de naciones, entre ellas Colombia, adoptaron un conjunto de objetivos globales para erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todos conocidos como Objetivos de Desarrollo Sostenible y que se muestran en la siguiente figura:
           .col-md-8.col-12
+            .titulo-sexto.color-acento-botones
+                p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Objetivos de desarrollo sostenible ONU.</i>
             figure
               img(src='@/assets/curso/temas/tema2/tema2-08.svg', alt='Texto que describa la imagen')
               figcaption Objetivos de desarrollo sostenible ONU
@@ -92,14 +98,14 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
       .row.justify-content-center.align-items-center(titulo="Objetivos de desarrollo sostenible - Parte 1")
         .col-md-11.col-12.mb-4.mb-md-0
-          p(style="margin-left:0.7em") Con la línea base en 2015, las metas de corto plazo en el 2018 y de largo plazo en el 2030 las metas de los ODS para Colombia se muestran en la siguiente imagen:
+          p(style="margin-left:0.7em") Con la línea base en 2015, las metas de corto plazo en el 2018 y de largo plazo en el 2030 las metas de los ODS para Colombia se muestran en la siguiente figura:
         .col-md-11.col-12
           figure
             img(src='@/assets/curso/temas/tema2/tema2-10.svg', alt='Texto que describa la imagen')
             figcaption Objetivos de desarrollo sostenible Colombia, Plan Energético Nacional 2020-2050 p 127
       .row.justify-content-center.align-items-center(titulo="Objetivos de desarrollo sostenible - Parte 2")
         .col-md-11.col-12.mb-4.mb-md-0
-          p(style="margin-left:0.7em") Con la línea base en 2015, las metas de corto plazo en el 2018 y de largo plazo en el 2030 las metas de los ODS para Colombia se muestran en la siguiente imagen:
+          p(style="margin-left:0.7em") Con la línea base en 2015, las metas de corto plazo en el 2018 y de largo plazo en el 2030 las metas de los ODS para Colombia se muestran en la siguiente figura:
         .col-md-11.col-12
           figure
             img(src='@/assets/curso/temas/tema2/tema2-11.svg', alt='Texto que describa la imagen')
@@ -107,7 +113,7 @@
       
       .row.justify-content-center.align-items-center(titulo="Plan energético Nacional")
         .col-md-11.col-12.mb-4.mb-md-0
-          p(style="margin-left:0.7em") También en el 2018, a través del documento CONPES 3934 se refuerza la estrategia para la implementación de los ODS mediante la Política de Crecimiento Verde que establece la promoción de oportunidades económicas basadas en la riqueza natural, fortalece el uso y crecimiento de energía verde (no contaminante), desarrolla lineamientos para capacitación en usos de energía verde y coordina la implementación institucional de política de crecimiento verde. Los indicadores y metas de corto y largo plazo de esta estrategia se muestran en la siguiente imagen:
+          p(style="margin-left:0.7em") También en el 2018, a través del documento CONPES 3934 se refuerza la estrategia para la implementación de los ODS mediante la Política de Crecimiento Verde que establece la promoción de oportunidades económicas basadas en la riqueza natural, fortalece el uso y crecimiento de energía verde (no contaminante), desarrolla lineamientos para capacitación en usos de energía verde y coordina la implementación institucional de política de crecimiento verde. Los indicadores y metas de corto y largo plazo de esta estrategia se muestran en la siguiente figura:
         .col-md-11.col-12
           figure
             img(src='@/assets/curso/temas/tema2/tema2-12.svg', alt='Texto que describa la imagen')
