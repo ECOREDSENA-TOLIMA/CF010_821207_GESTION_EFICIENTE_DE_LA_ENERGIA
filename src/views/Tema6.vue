@@ -102,10 +102,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/9.svg', alt='', @click="modal1 = true, imagen = 'tema4-03.png'")
               
-     
-     
-     
-    
+        
     .col-12.my-5
       p Complementa tu estudio sobre el Reglamento técnico de etiquetado (RETIQ) revisando el siguiente documento.
     
