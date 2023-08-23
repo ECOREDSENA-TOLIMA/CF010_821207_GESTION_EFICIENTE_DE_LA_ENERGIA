@@ -10,7 +10,7 @@
     
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12
-        p Adicional a la base de datos del IEA sobre normativa nacional en energías renovables, el Ministerio de minas y energía puso a disposición de la ciudadanía los decretos que se han expedido en el marco de la reglamentación de la ley 1715 de 2014 así:
+        p Adicional a la base de datos del IEA sobre normativa nacional en energías renovables, el Ministerio de Minas y energía puso a disposición de la ciudadanía los decretos que se han expedido en el marco de la reglamentación de la ley 1715 de 2014 así:
 
     .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-left")
       SlyderA(tipo="b")

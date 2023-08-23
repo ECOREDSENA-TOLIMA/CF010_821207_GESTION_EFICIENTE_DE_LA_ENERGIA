@@ -44,7 +44,7 @@
             figure
               .titulo-sexto.color-acento-botones
                 p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Ejemplos de estrategias de economía circular.</i>
-              img(src='@/assets/curso/temas/tema2/tema2-03.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/3.svg', alt='Texto que describa la imagen')
               figcaption Ejemplos de estrategias de economía circular, Cartilla economía circular p. 8
 
         .row
@@ -122,7 +122,7 @@
       .row.justify-content-center.align-items-center(titulo="Avances en el cumplimiento de la agenda")
         .col-md-11.col-12.mb-4.mb-md-0
           p(style="margin-left:0.7em") Según un informe del DNP, en los últimos años el país ha avanzado en diversos temas. Uno de los logros está ligado al “Objetivo 6: Agua limpia y saneamiento”, dado que el actual gobierno logró que 6,9 millones de personas tuvieran acceso a agua potable por primera vez.
-          p(style="margin-left:0.7em") Asimismo, según información del Fondo Mundial para la Naturaleza (WWF), el Estado colombiano ha alcanzado importantes metas para la implementación de los ODS, como el acceso a energía en 202.000 viviendas, de las cuales 29.000 se ubican en zonas de posconflicto, la construcción de 1,7 millones de hogares, de los cuales se han beneficiado alrededor de 5,7 millones de personas y la reducción del 30% de la producción de bolsas plásticas.
+          p(style="margin-left:0.7em") Asimismo, según información del Fondo Mundial para la Naturaleza (WWF), el Estado colombiano ha alcanzado importantes metas para la implementación de los ODS, como el acceso a energía en 202.000 viviendas, de las cuales 29.000 se ubican en zonas de posconflicto, la construcción de 1,7 millones de hogares, de los cuales se han beneficiado alrededor de 5,7 millones de personas y la reducción del 30 % de la producción de bolsas plásticas.
         .col-md-6.col-12
           p(style="margin-left:0.7em") Se han identificado desafíos para el gobierno colombiano entrante con base en los informes presentados hasta la fecha. El rol colombiano en la región le da al Estado colombiano la obligación de apropiarse y liderar sinergias regionales en el tema, es decir, Colombia debe estar vinculada a los países vecinos para asegurar la implementación de los ODS a nivel regional. 
           p(style="margin-left:0.7em") Asimismo, para el director de planificación de WWF, la articulación interinstitucional es importante para hacer más efectivas las acciones ambientales. Con base en lo anterior, es importante promover la participación de todos los sectores de la sociedad civil, privada y pública para seguir cosechando logros en la Agenda 2030 para el Desarrollo Sostenible.

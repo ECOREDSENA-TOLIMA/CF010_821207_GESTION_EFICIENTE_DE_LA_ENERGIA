@@ -106,12 +106,12 @@
         .tarjeta-avatar.col-12
           img(style="width: 80px;" src="@/assets/curso/temas/tema4/numero-1.svg")   
           .tarjeta.col-12.py-4.mb-4(style="background:#E4DAF7")
-            p.mb-0.text-center.mt-1 Deducción del impuesto de renta de hasta el 50% del valor de la inversión del proyecto. (artículo 11).
+            p.mb-0.text-center.mt-1 Deducción del impuesto de renta de hasta el 50 % del valor de la inversión del proyecto. (artículo 11).
       .col-lg-4.col-12.d-flex.mb-lg-0.mb-5(data-aos="fade-left")
         .tarjeta-avatar.col-12
           img(style="width: 80px;" src="@/assets/curso/temas/tema4/numero-2.svg")   
           .tarjeta.col-12.py-4.mb-4(style="background:#CDFCFC")
-            p.mb-0.text-center.mt-1 Depreciación de los activos relacionados con el proyecto hasta el 20% anual (artículo 14).
+            p.mb-0.text-center.mt-1 Depreciación de los activos relacionados con el proyecto hasta el 20 % anual (artículo 14).
       .col-lg-4.col-12.d-flex.mb-lg-0.mb-5(data-aos="fade-right")
         .tarjeta-avatar.col-12
           img(style="width: 80px;" src="@/assets/curso/temas/tema4/numero-3.svg")   
