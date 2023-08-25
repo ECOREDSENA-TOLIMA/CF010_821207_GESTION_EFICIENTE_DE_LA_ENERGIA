@@ -38,7 +38,7 @@
 
         .row
           .col-md-4.col-12.mb-4.mb-md-0
-            p Como se puede observar, la diferencia entre los modelos va mucho más allá que la simple implementación del reciclaje. Comprende el desarrollo de productos innovadores y nuevos modelos de negocios que permitan que nuestro país, al igual que en los países de la Organización para la Cooperación y Desarrollo Económico (OCDE), consume 50% menos de materias primas y 80% menos de agua en los procesos productivos y que cuadruplique la productividad por hectárea de tierra.
+            p Como se puede observar, la diferencia entre los modelos va mucho más allá que la simple implementación del reciclaje. Comprende el desarrollo de productos innovadores y nuevos modelos de negocios que permitan que nuestro país, al igual que en los países de la Organización para la Cooperación y Desarrollo Económico (OCDE), consume 50 % menos de materias primas y 80 % menos de agua en los procesos productivos y que cuadruplique la productividad por hectárea de tierra.
             p Un ejemplo de estrategias de economía circular (Diagrama Mariposa) se muestran en la siguiente figura:
           .col-md-8.col-12
             figure
