@@ -74,33 +74,33 @@
     .row.mt-5.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
       .col-12
         p El tamaño de la etiqueta debe corresponder al del formato A6 (105 x 148 mm) y podrá reducirse en los casos contemplados en el numeral 6.2 del reglamento a los formatos A7 (74 x 105 mm) o A8 (52 x 74 mm).
-        p La información energética exigida en la etiqueta debe ser certificada por un organismo acreditado en las condiciones de ensayo específicas para cada producto y corresponden a:
+        p La información energética exigida en la etiqueta debe ser certificada por un organismo acreditado en las condiciones de ensayo específicas para cada producto. 
      
      
-    .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-left")
-      SlyderA(tipo="b")
-        .row
-          .col-lg-4.col-12.mb-4.mb-md-0
-            p Cuando dos o más países desean comerciar bienes y servicios entre ellos, se hace necesario que pacten o acuerden bajo el amparo del derecho internacional las condiciones económicas y comerciales en las que se deben dar dichos intercambios.
-          .col-lg-8.col-12
-            figure
-              img(src='@/assets/curso/temas/tema6/7.svg', alt='', @click="modal1 = true, imagen = 'tema4-01.svg'")
+    //- .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-left")
+    //-   SlyderA(tipo="b")
+    //-     .row
+    //-       .col-lg-4.col-12.mb-4.mb-md-0
+    //-         p Cuando dos o más países desean comerciar bienes y servicios entre ellos, se hace necesario que pacten o acuerden bajo el amparo del derecho internacional las condiciones económicas y comerciales en las que se deben dar dichos intercambios.
+    //-       .col-lg-8.col-12
+    //-         figure
+    //-           img(src='@/assets/curso/temas/tema6/7.svg', alt='', @click="modal1 = true, imagen = 'tema4-01.svg'")
 
-        .row
-          .col-lg-4.col-12.mb-4.mb-md-0
-            p Una condición ineludible en dichos tratados (Ley 170 de 1994 adhesión de Colombia a la Organización Mundial de Comercio OMC)  es que los países firmantes se comprometen a no crear obstáculos innecesarios al comercio, esto es que cualquier restricción referente a bienes y servicios incluidos en el tratado sólo puede referirse a ciertos objetivos denominados legítimos tales como la protección de la vida y salud humana, de la vida animal y vegetal, del medio ambiente, prevención de engaño al consumidor y los que tengan relación a la seguridad nacional.
-          .col-lg-8.col-12
-            figure
-              img(src='@/assets/curso/temas/tema6/8.svg', alt='', @click="modal1 = true, imagen = 'tema4-02.png'")
+    //-     .row
+    //-       .col-lg-4.col-12.mb-4.mb-md-0
+    //-         p Una condición ineludible en dichos tratados (Ley 170 de 1994 adhesión de Colombia a la Organización Mundial de Comercio OMC)  es que los países firmantes se comprometen a no crear obstáculos innecesarios al comercio, esto es que cualquier restricción referente a bienes y servicios incluidos en el tratado sólo puede referirse a ciertos objetivos denominados legítimos tales como la protección de la vida y salud humana, de la vida animal y vegetal, del medio ambiente, prevención de engaño al consumidor y los que tengan relación a la seguridad nacional.
+    //-       .col-lg-8.col-12
+    //-         figure
+    //-           img(src='@/assets/curso/temas/tema6/8.svg', alt='', @click="modal1 = true, imagen = 'tema4-02.png'")
 
-        .row
-          .col-md-4.col-12.mb-4.mb-md-0
-            p Los documentos en donde se recogen los objetivos legítimos aplicables de forma obligatoria a cada sector de la economía se denominan Reglamentos Técnicos.
-            p Los reglamentos técnicos reemplazan de forma sistemática en cada sector a las normas técnicas emitidas por el ICONTEC, cuyo cumplimiento dejó de ser obligatorio con la entrada en vigor de los reglamentos técnicos, excepto en los casos particulares expresamente contemplados en ellos.
+    //-     .row
+    //-       .col-md-4.col-12.mb-4.mb-md-0
+    //-         p Los documentos en donde se recogen los objetivos legítimos aplicables de forma obligatoria a cada sector de la economía se denominan Reglamentos Técnicos.
+    //-         p Los reglamentos técnicos reemplazan de forma sistemática en cada sector a las normas técnicas emitidas por el ICONTEC, cuyo cumplimiento dejó de ser obligatorio con la entrada en vigor de los reglamentos técnicos, excepto en los casos particulares expresamente contemplados en ellos.
 
-          .col-md-8.col-12
-            figure
-              img(src='@/assets/curso/temas/tema6/9.svg', alt='', @click="modal1 = true, imagen = 'tema4-03.png'")
+    //-       .col-md-8.col-12
+    //-         figure
+    //-           img(src='@/assets/curso/temas/tema6/9.svg', alt='', @click="modal1 = true, imagen = 'tema4-03.png'")
               
         
     .col-12.my-5

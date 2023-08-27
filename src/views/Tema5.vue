@@ -44,8 +44,8 @@
         .row
           .col-lg-4.col-12.mb-4.mb-md-0
             p Establece incentivos tributarios para los contribuyentes que realicen de forma directa inversiones en investigación y desarrollo de proyectos para la producción de energía a partir de Fuentes Naturales No Convencionales (FNCE), así:
-            p a. Deducción del impuesto de renta de hasta el 50% del valor de la inversión del proyecto. (artículo 11)
-            p b. Depreciación de los activos relacionados con el proyecto hasta el 20% anual (artículo 14)
+            p a. Deducción del impuesto de renta de hasta el 50 % del valor de la inversión del proyecto. (artículo 11)
+            p b. Depreciación de los activos relacionados con el proyecto hasta el 20 % anual (artículo 14)
             p c. Exclusión del pago del impuesto al valor agregado IVA en los bienes y servicios del proyecto (artículo 12)
             p d. Exención de pago de arancel de importación de equipos con tecnología en FNCE del proyecto.
           .col-lg-8.col-12
