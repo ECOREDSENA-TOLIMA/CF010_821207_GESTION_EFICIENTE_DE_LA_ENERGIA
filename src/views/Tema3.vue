@@ -50,7 +50,7 @@
     .row.justify-content-center.align-items-center.tarjeta--azul-custom.mb-0.p-4.py-5
       .col-lg-12.col-12(data-aos="fade-right")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 <b>Figura 4.</b> <i>Página Web de consulta de Normativa Energética</i> 
+          p.titulo.pb-0.mb-0 <b>Figura 5.</b> <i>Página Web de consulta de Normativa Energética</i> 
         img(src='@/assets/curso/temas/tema3/tema3-03.png')   
 
     .row.justify-content-center.align-items-center
@@ -107,6 +107,8 @@
             p Por la cual, se presta el servicio en ZNI, a través del uso de energia renovable, con empresas dedicadas al aprovechamiento de residuos sólidos.
             p.mb-0 #[strong Ley 855]
             p Por la cual se definen las Zonas No Interconectadas ZNI.
+            p.mb-0 #[strong Ley 855]
+            p Por la cual se modifica transitoriamente al Reglamento de Operación para permitir la conexión y operación de plantas solares fotovoltaicas y eólicas en el SIN.
         
         .row.justify-content-center.align-items-center(titulo="2007")
           .col-md-3.icon-years
@@ -152,12 +154,12 @@
             p.mb-0 #[strong Resolución 96]
             p Por la cual se alude a la opción de acceso al despacho central, a plantas menores a 20 MW conectadas al Sistema Interconectado Nacional.
 
-        .row.justify-content-center.align-items-center(titulo="2003")
-          .col-md-3.icon-years
-            img(src='@/assets/curso/temas/tema3/icon-years.svg', alt='')
-          .col-md-9.mb-4.mb-md-0
-            p.mb-0 #[strong Ley 855]
-            p Por la cual se modifica transitoriamente al Reglamento de Operación para permitir la conexión y operación de plantas solares fotovoltaicas y eólicas en el SIN.
+        //- .row.justify-content-center.align-items-center(titulo="2003")
+        //-   .col-md-3.icon-years
+        //-     img(src='@/assets/curso/temas/tema3/icon-years.svg', alt='')
+        //-   .col-md-9.mb-4.mb-md-0
+        //-     p.mb-0 #[strong Ley 855]
+        //-     p Por la cual se modifica transitoriamente al Reglamento de Operación para permitir la conexión y operación de plantas solares fotovoltaicas y eólicas en el SIN.
 
 </template>
 

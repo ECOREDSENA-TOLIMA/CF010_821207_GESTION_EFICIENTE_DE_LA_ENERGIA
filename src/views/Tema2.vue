@@ -115,9 +115,11 @@
         .col-md-11.col-12.mb-4.mb-md-0
           p(style="margin-left:0.7em") También en el 2018, a través del documento CONPES 3934 se refuerza la estrategia para la implementación de los ODS mediante la Política de Crecimiento Verde que establece la promoción de oportunidades económicas basadas en la riqueza natural, fortalece el uso y crecimiento de energía verde (no contaminante), desarrolla lineamientos para capacitación en usos de energía verde y coordina la implementación institucional de política de crecimiento verde. Los indicadores y metas de corto y largo plazo de esta estrategia se muestran en la siguiente figura:
         .col-md-11.col-12
+          .titulo-sexto.color-acento-botones
+              p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Diagrama de indicadores de resultado de crecimiento verde.</i>
           figure
             img(src='@/assets/curso/temas/tema2/tema2-12.svg', alt='Texto que describa la imagen')
-            figcaption Objetivos de desarrollo sostenible Colombia, Plan Energético Nacional 2020-2050 p 129
+            figcaption Objetivos de desarrollo sostenible Colombia, Plan Energético Nacional 2020-2050 p 129. <a href="https://www.eltiempo.com/uploads/files/2021/09/23/Plan_Energetico_Nacional_2020_2050.pdf" style="color:blue" target="_blank">https://www.eltiempo.com/uploads/files/2021/09/23/Plan_Energetico_Nacional_2020_2050.pdf</a>
       
       .row.justify-content-center.align-items-center(titulo="Avances en el cumplimiento de la agenda")
         .col-md-11.col-12.mb-4.mb-md-0

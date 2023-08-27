@@ -19,7 +19,7 @@
             p Para consultar la normatividad internacional (global) sobre energías renovables se deben configurar en el menú de filtros de la página web del IEA el de “Tópico” en “Energía renovable”, el de “Estado” en “Vigente” y el de Jurisdicción en “Internacional”, como se muestra a continuación:
           .col-lg-8.col-12
             .titulo-sexto.color-acento-botones
-              p.titulo.pb-0.mb-0 <b>Figura 9.</b> <i>Página Web de consulta de Normativa Eficiencia Energética internacional</i>
+              p.titulo.pb-0.mb-0 <b>Figura 10.</b> <i>Página Web de consulta de Normativa Eficiencia Energética internacional</i>
             figure
               img(src='@/assets/curso/temas/tema5/1.svg', alt='', @click="modal1 = true, imagen = 'tema4-01.svg'")
               figcaption Página Web de consulta de Normativa Eficiencia Energética internacional
@@ -29,7 +29,7 @@
             p Para consultar la normatividad NACIONAL sobre eficiencia energética, en la misma página del IEA, se deben configurar en el menú de filtros el de “Tópico” en “Eficiencia energética”, el de “Estado” en “Vigente”, el de Jurisdicción en “Centro y Sur América” y el de “País” en “Colombia”, como se muestra:
           .col-lg-8.col-12
             .titulo-sexto.color-acento-botones
-              p.titulo.pb-0.mb-0 <b>Figura 10.</b> <i>Página web de consulta respecto a normativa nacional de energías renovables</i>
+              p.titulo.pb-0.mb-0 <b>Figura 11.</b> <i>Página web de consulta respecto a normativa nacional de energías renovables</i>
             figure
               img(src='@/assets/curso/temas/tema5/2.svg', alt='', @click="modal1 = true, imagen = 'tema4-02.png'")
               figcaption Página Web de consulta de Normativa Eficiencia Energética Nacional

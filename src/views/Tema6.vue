@@ -66,7 +66,7 @@
         p.mb-5 Un ejemplo de etiqueta energética se muestra en la siguiente figura:
       .col-lg-6.col-md-6.col-12
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 #[b Figura 11.] #[i Ejemplo de etiqueta energética] 
+          p.titulo.pb-0.mb-0 #[b Figura 12.] #[i Ejemplo de etiqueta energética] 
         figure
           img(src='@/assets/curso/temas/tema6/3.png', alt='')  
           figcaption(style="background:#ECE3FF") Nota. https://www.diselco.co/post/etiqueta-de-eficiencia-energ%C3%A9tica-qu%C3%A9-significa 

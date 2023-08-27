@@ -18,7 +18,7 @@
             p El principio de conservación de la energía establece que esta no se crea ni se destruye, solo se transforma. En forma general un proceso de transformación involucra una energía de algún tipo en la entrada, una en la salida y otra (generalmente calor) correspondiente al costo energético de la transformación como se muestra a continuación:
           .col-lg-8.col-12
             .titulo-sexto.color-acento-botones
-              p.titulo.pb-0.mb-0 <b>Figura 5.</b> <i>Página Web de consulta de Normativa Energética</i>
+              p.titulo.pb-0.mb-0 <b>Figura 6.</b> <i>Página Web de consulta de Normativa Energética</i>
             figure
               img(src='@/assets/curso/temas/tema4/tema4-01.svg', alt='', @click="modal1 = true, imagen = 'tema4-01.svg'")
               figcaption Proceso de transformación de energía.
@@ -46,7 +46,7 @@
             p Para consultar la normatividad internacional (global) sobre eficiencia energética se deben configurar en el menú de filtros el de “Tópico” en “Eficiencia energética”, el de “Estado” en “Vigente” y el de Jurisdicción en “Internacional”, como se muestra:
           .col-lg-8.col-12
             .titulo-sexto.color-acento-botones
-              p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Página web de consulta de Normatividad Eficiencia Energética Internacional</i>
+              p.titulo.pb-0.mb-0 <b>Figura 7. </b> <i>Página web de consulta de Normatividad Eficiencia Energética Internacional</i>
             figure
               img(src='@/assets/curso/temas/tema4/tema4-04.png', alt='', @click="modal1 = true, imagen = 'tema4-04.png'")
               figcaption Página Web de consulta de Normativa Eficiencia Energética internacional
@@ -56,7 +56,7 @@
             p Para consultar la normatividad NACIONAL sobre eficiencia energética, en la misma página del IEA, se deben configurar en el menú de filtros el de “Tópico” en “Eficiencia energética”, el de “Estado” en “Vigente”, el de Jurisdicción en “Centro y Sur América” y el de “País” en “Colombia”, como se muestra:
           .col-lg-8.col-12
             .titulo-sexto.color-acento-botones
-              p.titulo.pb-0.mb-0 <b>Figura 7. </b> <i>Página web de consulta de Normatividad Eficiencia Energética Internacional</i>
+              p.titulo.pb-0.mb-0 <b>Figura 8. </b> <i>Página web de consulta de Normatividad Eficiencia Energética Internacional</i>
             figure
               img(src='@/assets/curso/temas/tema4/tema4-05.png', alt='', @click="modal1 = true, imagen = 'tema4-05.png'")
               figcaption Página Web de consulta de Normativa Eficiencia Energética Nacional
@@ -142,7 +142,7 @@
           p.mb-0 Finalmente, el Ministerio de Minas y energías a través de la Unidad de planeación minero-energética (UPME) desarrolló el sitio web Sistema de Información de Eficiencia Energética y energías alternativas (SI3EA) en donde se puede consultar la información oficial actualizada sobre el URE y las FNCE, como se muestra en la siguiente figura:
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-botones
-          p.titulo.pb-0.mb-0 #[b Figura 8.] #[i Demanda y eficiencia energética] 
+          p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Demanda y eficiencia energética] 
         figure
           img(src='@/assets/curso/temas/tema4/tema4-08.png', alt='')  
           figcaption Nota. https://www1.upme.gov.co/paginas/demanda-y-eficiencia-energetica.aspx

@@ -221,7 +221,7 @@ export default {
       significado: 'sigla de Reglamento Técnico de Etiquetado.',
     },
     {
-      termino: 'SI3EA',
+      termino: 'SIEA',
       significado:
         'sigla de Sistema de Información de Eficiencia Energética y Energías Alternativas.',
     },
