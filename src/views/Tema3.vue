@@ -44,7 +44,7 @@
     .row.mt-4(data-aos="fade-right")
       .col-12.mb-0
         .cajon.color-primario.p-4
-          p.mb-0 También hay en el sitio web SYG Energy una página donde menciona las principales leyes  y normatividad general del sector eléctrico en Colombia, su link de acceso es 
+          p.mb-0 También hay en el sitio web SYG #[i Energy] una página donde menciona las principales leyes  y normatividad general del sector eléctrico en Colombia, su link de acceso es 
             <a href="https://www.sygenergy.co/2021/09/05/normatividad-y-leyes-del-sector-electrico-colombiano/" class="color-link" target="_blank"> https://www.sygenergy.co/2021/09/05/normatividad-y-leyes-del-sector-electrico-colombiano</a> y aparece como muestra la siguiente figura:
             
     .row.justify-content-center.align-items-center.tarjeta--azul-custom.mb-0.p-4.py-5

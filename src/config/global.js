@@ -205,7 +205,7 @@ export default {
     {
       termino: 'IEA',
       significado:
-        'sigla de Agencia internacional de energía (International Energy Agency).',
+        'sigla de Agencia internacional de energía (<i>International Energy Agency</i>).',
     },
     {
       termino: 'PAI-PROURE',

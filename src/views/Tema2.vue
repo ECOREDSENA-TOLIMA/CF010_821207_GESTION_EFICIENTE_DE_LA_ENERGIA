@@ -63,7 +63,7 @@
 
         .row
           .col-md-4.col-12.mb-4.mb-md-0
-            p Si bien el concepto moderno de desarrollo sostenible se deriva principalmente del Informe Brundtland de 1986, también tiene sus raíces en ideas anteriores sobre la ordenación forestal sostenible y las preocupaciones ambientales del siglo XX. A medida que se desarrolló el concepto de desarrollo sostenible, se ha orientado más hacia el desarrollo económico, el desarrollo social y la protección del medio ambiente para las generaciones futuras.
+            p Si bien el concepto moderno de desarrollo sostenible se deriva principalmente del Informe #[i Brundtland] de 1986, también tiene sus raíces en ideas anteriores sobre la ordenación forestal sostenible y las preocupaciones ambientales del siglo XX. A medida que se desarrolló el concepto de desarrollo sostenible, se ha orientado más hacia el desarrollo económico, el desarrollo social y la protección del medio ambiente para las generaciones futuras.
           .col-md-8.col-12
             figure
               img(src='@/assets/curso/temas/tema2/tema2-06.png', alt='Texto que describa la imagen')
