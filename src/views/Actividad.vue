@@ -10,7 +10,7 @@
             img(src="@/assets/template/emparejamiento.svg", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Conectando el Contexto Formativo con el Sector Energético
+          h2 Contexto normativo aplicable al sector energético
         p.mb-4 #[b Objetivo] Relacionar conceptos clave del contexto formativo y normativo aplicados al sector energético para promover la comprensión de su importancia y relevancia en el ámbito energético actual.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

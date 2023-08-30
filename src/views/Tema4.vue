@@ -18,10 +18,10 @@
             p El principio de conservación de la energía establece que esta no se crea ni se destruye, solo se transforma. En forma general un proceso de transformación involucra una energía de algún tipo en la entrada, una en la salida y otra (generalmente calor) correspondiente al costo energético de la transformación como se muestra a continuación:
           .col-lg-8.col-12
             .titulo-sexto.color-acento-botones
-              p.titulo.pb-0.mb-0 <b>Figura 6.</b> <i>Página Web de consulta de Normativa Energética</i>
+              p.titulo.pb-0.mb-0 <b>Figura 6.</b> <i>Proceso de transformación de energía</i>
             figure
-              img(src='@/assets/curso/temas/tema4/tema4-01.svg', alt='', @click="modal1 = true, imagen = 'tema4-01.svg'")
-              figcaption Proceso de transformación de energía.
+              img(src='@/assets/curso/temas/tema4/tema4-01.svg', alt='La figura describe el costo energético de la transformación.', @click="modal1 = true, imagen = 'tema4-01.svg'")
+              //- figcaption Proceso de transformación de energía.
 
         .row
           .col-lg-4.col-12.mb-4.mb-md-0
