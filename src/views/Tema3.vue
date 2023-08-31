@@ -95,7 +95,7 @@
             img(src='@/assets/curso/temas/tema3/icon-years.svg', alt='')
           .col-md-9.mb-4.mb-md-0
             p.mb-0 #[strong Resolución 70]
-            p Por medio de la cual se establece el regamento de distribución de energía eléctrica como parte del reglamento de operación SIN.
+            p Por medio de la cual se establece el reglamento de distribución de energía eléctrica como parte del reglamento de operación SIN.
             p.mb-0 #[strong Resolución 116]
             p Por la cual se dictan disposiciones sobre garantías de los participantes en el mercado mayorista, como parte del Reglamento de Operación del SIN.
 
